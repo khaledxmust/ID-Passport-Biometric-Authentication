@@ -1,0 +1,9 @@
+{
+  "request": {
+    "merchantReference": "synthetic-demo-002",
+    "reports": ["id_eg_extraction"],
+    "documentImage": "https://example.com/synthetic-id-front.jpg",
+    "document_face": "front",
+    "detection": false
+  }
+}

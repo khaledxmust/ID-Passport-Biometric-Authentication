@@ -1,0 +1,7 @@
+{
+  "request": {
+    "merchantReference": "synthetic-demo-001",
+    "reports": ["mrz_manual_extraction"],
+    "mrz": "P<UTOERIKSSON<<ANNA<MARIA<<<<<<<<<<<<<<<<<<<\nL898902C36UTO7408122F1204159ZE184226B<<<<<10"
+  }
+}

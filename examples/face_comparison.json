@@ -1,0 +1,8 @@
+{
+  "request": {
+    "merchantReference": "consented-demo-001",
+    "reports": ["face_similarity"],
+    "documentImage": "https://example.com/consented-document.jpg",
+    "imageLink": "https://example.com/consented-portrait.jpg"
+  }
+}

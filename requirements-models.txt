@@ -1,0 +1,5 @@
+# Proposed Python 3.10/3.11 CPU baseline. Full model installation is not verified.
+-r requirements-ocr.txt
+ultralytics>=8.3,<8.4
+deepface==0.0.93
+tensorflow>=2.15,<2.16

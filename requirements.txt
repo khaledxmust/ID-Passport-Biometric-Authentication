@@ -1,0 +1,5 @@
+# Small web API layer. ML/OCR dependencies are optional and loaded per report.
+Flask>=3.1,<4
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+mrz==0.6.2
